@@ -1,6 +1,0 @@
-{
-  "version": "1.0.66",
-  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.0.66/OCRelay-Setup-1.0.66.exe",
-  "sha256": "cee1456c6593f1302f83c191c2d5883b4033a8390983df1ee39ee03045acc1b9",
-  "notes": "Settings panel now scrolls so nothing is cut off on shorter monitors."
-}
