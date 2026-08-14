@@ -1,6 +1,6 @@
 {
-  "version": "1.0.65",
-  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.0.65/OCRelay-Setup-1.0.65.exe",
-  "sha256": "fcee6b79c82d7bc0c124125eabb0e52ffd22e0eb076ae333451665dfb298ac9c",
-  "notes": "Coronary Calcium CT study; expanded Cardiac MRI (aortic/pulmonary valve flow, Qp/Qs, shunt, T2*); grouped LE Arterial and Abdominal US menus; in-app auto-update."
+  "version": "1.0.66",
+  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.0.66/OCRelay-Setup-1.0.66.exe",
+  "sha256": "cee1456c6593f1302f83c191c2d5883b4033a8390983df1ee39ee03045acc1b9",
+  "notes": "Settings panel now scrolls so nothing is cut off on shorter monitors."
 }
