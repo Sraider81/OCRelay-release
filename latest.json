@@ -1,6 +1,6 @@
 {
-  "version": "1.0.66",
-  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.0.66/OCRelay-Setup-1.0.66.exe",
-  "sha256": "cee1456c6593f1302f83c191c2d5883b4033a8390983df1ee39ee03045acc1b9",
-  "notes": "Settings panel now scrolls so nothing is cut off on shorter monitors."
+  "version": "1.0.79",
+  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.0.79/OCRelay-Setup-1.0.79.exe",
+  "sha256": "9ab4f08646ff943d1cbcc44bb57f4b30bb4c444090a132e097d6fb0d7622db6f",
+  "notes": "A refreshed, modern look throughout, plus a clearer and safer capture flow. Modern rounded buttons, toggle switches, and input fields; a tidier, scrollable Settings panel; crisp gear/collapse/close icons. New Region now guides first-time setup and Capture auto-starts region selection if none is set. Too-small or empty captures are caught before they can reach your report. Grouped study menus (LE Arterial, Abdominal US, OB) and expanded Cardiac MRI (valve flow, Qp/Qs, T2*), plus the Coronary Calcium CT study."
 }
