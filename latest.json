@@ -1,6 +1,6 @@
 {
-  "version": "1.1.17",
-  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.1.17/OCRelay-Setup-1.1.17.exe",
-  "sha256": "0642d9fc29a54e11db537dbf977d57e0d174be5f2ac4894b98174c5f61f04ad8",
-  "notes": "OCRelay 1.1.17\n\nLE ARTERIAL — TWO NUMBERS IN ONE VELOCITY BOX\n\n• Some LE arterial worksheets write each artery as two numbers with a slash, such as 138.0/8.6. The higher of the two now goes into the review panel and the report — 138.0 in that example.\n\n• Decimals are kept as written on the sheet.\n\n• Waveforms are not affected, and nor is any other study.\n\n• Applies to both bilateral and unilateral LE arterial."
+  "version": "1.1.18",
+  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.1.18/OCRelay-Setup-1.1.18.exe",
+  "sha256": "bc86e64ed8c6adcecc0a2daa843439d48afd26609024cdb5ce91cf67dfca34fe",
+  "notes": "OCRelay 1.1.18\n\nTHE REVIEW PANEL STAYS ON YOUR MONITOR\n\n• With more than one monitor — especially a portrait monitor beside landscape ones — the review panel could open partly on the neighbouring screen. It now opens on the monitor OCRelay is on, centred there.\n\n• If the panel is too wide for that monitor, the worksheet picture shrinks to make room. The values are never cut off.\n\n• If you move the panel yourself, it stays where you put it.\n\n• The full-size worksheet picture (click the image to zoom) now opens on the same monitor too."
 }
