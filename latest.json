@@ -1,6 +1,6 @@
 {
-  "version": "1.1.18",
-  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.1.18/OCRelay-Setup-1.1.18.exe",
-  "sha256": "bc86e64ed8c6adcecc0a2daa843439d48afd26609024cdb5ce91cf67dfca34fe",
-  "notes": "OCRelay 1.1.18\n\nTHE REVIEW PANEL STAYS ON YOUR MONITOR\n\n• With more than one monitor — especially a portrait monitor beside landscape ones — the review panel could open partly on the neighbouring screen. It now opens on the monitor OCRelay is on, centred there.\n\n• If the panel is too wide for that monitor, the worksheet picture shrinks to make room. The values are never cut off.\n\n• If you move the panel yourself, it stays where you put it.\n\n• The full-size worksheet picture (click the image to zoom) now opens on the same monitor too."
+  "version": "1.1.20",
+  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.1.20/OCRelay-Setup-1.1.20.exe",
+  "sha256": "bd7031b44f075af42e796a2fee0aa5e792f4fd2fa8c7c8c7f2011beb10a5a7b7",
+  "notes": "OCRelay 1.1.20\n\nFIX: \"NO MEASUREMENTS FOUND HERE\" ON SOME WORKSHEETS\n\n• On some worksheets — mostly carotid — the scan came back empty even though the region was right. The AI was writing out its working before giving the values, and ran out of room before it got to them. It now has more room, is told to give the values alone, and OCRelay finds the values even if the AI does explain itself first.\n\nFIX: REVIEW PANEL ON A NARROW MONITOR\n\n• Since 1.1.18, on a monitor too narrow for the panel (such as a portrait monitor), rows and warnings that appeared once the values arrived could be squeezed out of sight. The panel now makes room by shrinking the worksheet picture, and grows to show everything.\n\n• A panel you have moved to another monitor now stays there.\n\nFIX: TEST FROM FILE\n\n• Test from File now handles LE arterial boxes written as two numbers (138.0/8.6) the same way a normal capture does."
 }
