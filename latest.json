@@ -1,6 +1,6 @@
 {
-  "version": "1.1.26",
-  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.1.26/OCRelay-Setup-1.1.26.exe",
-  "sha256": "7b9bf2b58bbdce1334c1ebc58d8cd14277893c04c6bfc452d3113eb75b66c55f",
-  "notes": "OCRelay 1.1.26\n\nNEW: GETTING STARTED WALKTHROUGH\n\n• Six short steps, from signing in to your first fill — ⚙ Settings → Getting started.\n• Box the measurements only: leave out the patient's name, MRN, date of birth and other identifiers. The picture inside the box is sent to the AI. This reminder now also shows while you draw a region.\n\nNOTHING CUT OFF AT ANY WIDTH\n\n• The main widget's chips, buttons and hotkey line now fit at every width.\n• Settings labels wrap, and the Express mode explanation is shorter."
+  "version": "1.1.27",
+  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.1.27/OCRelay-Setup-1.1.27.exe",
+  "sha256": "f6463128fdeb8fd1d5829a4edff179aa25a59b845e6d8a58691c55060946b570",
+  "notes": "OCRelay 1.1.27\n\nNEW: CHOOSE WHETHER PELVIS FINDINGS FILL\n\n• ⚙ Settings → Studies → \"Pelvis US: fill organ findings\" (on by default).\n• Off: the uterus, endometrium, ovary, cul-de-sac and additional findings keep the report's normal sentence and picklist for you to dictate. Route, Doppler and sizes still fill, and a finding you type in the review panel still fills."
 }
