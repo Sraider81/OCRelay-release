@@ -1,6 +1,6 @@
 {
-  "version": "1.1.25",
-  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.1.25/OCRelay-Setup-1.1.25.exe",
-  "sha256": "c59abea21585a71261d26d7c00f52ecaef93e441753895214d81a81f70cecc82",
-  "notes": "OCRelay 1.1.25\n\nREVIEW PANELS, EVERY STUDY\n\n• The review panel no longer grows past the bottom of the screen. When its rows don't fit, they scroll, and Confirm stays in view.\n• The review panel opens where you last left it.\n• Long values wrap onto more lines instead of being cut off. Hover over a short number box to see a value too long for it.\n• If a red alert is scrolled out of view, a red line above Confirm says so — click it to scroll there.\n• Fields you change from what the AI read get a violet outline, with a count above Confirm."
+  "version": "1.1.26",
+  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.1.26/OCRelay-Setup-1.1.26.exe",
+  "sha256": "7b9bf2b58bbdce1334c1ebc58d8cd14277893c04c6bfc452d3113eb75b66c55f",
+  "notes": "OCRelay 1.1.26\n\nNEW: GETTING STARTED WALKTHROUGH\n\n• Six short steps, from signing in to your first fill — ⚙ Settings → Getting started.\n• Box the measurements only: leave out the patient's name, MRN, date of birth and other identifiers. The picture inside the box is sent to the AI. This reminder now also shows while you draw a region.\n\nNOTHING CUT OFF AT ANY WIDTH\n\n• The main widget's chips, buttons and hotkey line now fit at every width.\n• Settings labels wrap, and the Express mode explanation is shorter."
 }
