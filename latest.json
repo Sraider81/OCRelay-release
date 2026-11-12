@@ -1,6 +1,6 @@
 {
-  "version": "1.1.24",
-  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.1.24/OCRelay-Setup-1.1.24.exe",
-  "sha256": "7e3a0d4a7dd96d21d2591b2aaf1634ce3cc547d6a961640e6db6aea08108f0ec",
-  "notes": "OCRelay 1.1.24\n\nNEW: US DVT LOWER EXTREMITY\n\n• \"Lower Extremity\" is now the first type under US DVT in the Study picker, for the bilateral lower extremity venous duplex.\n• For each leg, each vein's circled + or − becomes its line in the report (common femoral, femoral proximal/mid/distal, popliteal, calf veins). A \"+\" alone becomes \"Thrombus present.\", and the review panel asks you to choose occlusive or nonocclusive.\n• Abnormal/flat phasic flow rewrites the Flow line, and absent augmentation rewrites the Augmentation line. A negative worksheet already matches the report, so nothing is changed.\n• A red alert names the side and vein of any thrombus, because the impression still reads negative. If the worksheet marks only one leg, it warns that the other leg's section keeps its normal sentences."
+  "version": "1.1.25",
+  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.1.25/OCRelay-Setup-1.1.25.exe",
+  "sha256": "c59abea21585a71261d26d7c00f52ecaef93e441753895214d81a81f70cecc82",
+  "notes": "OCRelay 1.1.25\n\nREVIEW PANELS, EVERY STUDY\n\n• The review panel no longer grows past the bottom of the screen. When its rows don't fit, they scroll, and Confirm stays in view.\n• The review panel opens where you last left it.\n• Long values wrap onto more lines instead of being cut off. Hover over a short number box to see a value too long for it.\n• If a red alert is scrolled out of view, a red line above Confirm says so — click it to scroll there.\n• Fields you change from what the AI read get a violet outline, with a count above Confirm."
 }
