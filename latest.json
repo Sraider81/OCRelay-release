@@ -1,6 +1,6 @@
 {
-  "version": "1.1.27",
-  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.1.27/OCRelay-Setup-1.1.27.exe",
-  "sha256": "f6463128fdeb8fd1d5829a4edff179aa25a59b845e6d8a58691c55060946b570",
-  "notes": "OCRelay 1.1.27\n\nNEW: CHOOSE WHETHER PELVIS FINDINGS FILL\n\n• ⚙ Settings → Studies → \"Pelvis US: fill organ findings\" (on by default).\n• Off: the uterus, endometrium, ovary, cul-de-sac and additional findings keep the report's normal sentence and picklist for you to dictate. Route, Doppler and sizes still fill, and a finding you type in the review panel still fills."
+  "version": "1.1.28",
+  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.1.28/OCRelay-Setup-1.1.28.exe",
+  "sha256": "32575d558b56c735ae7fd6b3cbf56990c80b562f16612b48927191a4a77731b8",
+  "notes": "OCRelay 1.1.28\n\nFIXES\n\n• A new user's first launch no longer opens \"What's new\" over the Getting started walkthrough, and the walkthrough no longer opens for existing full-screen users.\n• A review panel you've resized or placed stays where you put it.\n• Ctrl+Z in a long field stops at the value the AI read.\n• Touchpad scrolling in the review panel is no longer too fast.\n• Pelvis size fields are single-line boxes again."
 }
