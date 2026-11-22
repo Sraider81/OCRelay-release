@@ -1,6 +1,6 @@
 {
-  "version": "1.1.28",
-  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.1.28/OCRelay-Setup-1.1.28.exe",
-  "sha256": "32575d558b56c735ae7fd6b3cbf56990c80b562f16612b48927191a4a77731b8",
-  "notes": "OCRelay 1.1.28\n\nFIXES\n\n• A new user's first launch no longer opens \"What's new\" over the Getting started walkthrough, and the walkthrough no longer opens for existing full-screen users.\n• A review panel you've resized or placed stays where you put it.\n• Ctrl+Z in a long field stops at the value the AI read.\n• Touchpad scrolling in the review panel is no longer too fast.\n• Pelvis size fields are single-line boxes again."
+  "version": "1.1.29",
+  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.1.29/OCRelay-Setup-1.1.29.exe",
+  "sha256": "cbb338e0aed42c7301d44b98820b42362a5631afac522de25dc0fb80d995c079",
+  "notes": "OCRelay 1.1.29\n\nFIX: REVIEW PANELS STAY ON YOUR MONITOR\n\n• A review panel no longer grows wider than the screen as values arrive. This was most noticeable on Pelvis US and on narrower or portrait monitors.\n• When room is tight, the worksheet image gets smaller first, then long alert lines wrap.\n• Dragging the panel wider or narrower still resizes the worksheet image."
 }
