@@ -1,6 +1,6 @@
 {
-  "version": "1.1.29",
-  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.1.29/OCRelay-Setup-1.1.29.exe",
-  "sha256": "cbb338e0aed42c7301d44b98820b42362a5631afac522de25dc0fb80d995c079",
-  "notes": "OCRelay 1.1.29\n\nFIX: REVIEW PANELS STAY ON YOUR MONITOR\n\n• A review panel no longer grows wider than the screen as values arrive. This was most noticeable on Pelvis US and on narrower or portrait monitors.\n• When room is tight, the worksheet image gets smaller first, then long alert lines wrap.\n• Dragging the panel wider or narrower still resizes the worksheet image."
+  "version": "1.1.30",
+  "url": "https://github.com/Sraider81/OCRelay-release/releases/download/v1.1.30/OCRelay-Setup-1.1.30.exe",
+  "sha256": "f8cbd0752e87470598164084e4b5e0c69a23a23ccd6732f639df76f7af651ee3",
+  "notes": "OCRelay 1.1.30\n\nFIX: PICKING A STUDY NO LONGER STARTS A CAPTURE\n\n• The Study list sits over the Capture button, and picking a study there could start a capture by accident. A study is now picked when you let go of the mouse button over it.\n• The Capture button also ignores a click for half a second after a list closes, so double-clicking a study doesn't capture either.\n• Applies to every dropdown list. The capture hotkey works as before."
 }
